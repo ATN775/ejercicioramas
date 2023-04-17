@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "Aqui va el codigo fuente para solucionar la incidencia IC2879"
+=======
+"Aqui va el código fuente para solucionar la incidencia IC2394"
+
+>>>>>>> parche1
 
